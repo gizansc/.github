@@ -2,8 +2,11 @@
 
 ![生徒会ロゴ](./assets/image/top.svg)
 
-生徒会が運営するリポジトリです。  
+岐山高等学校 生徒会が運営する GitHub Organization **gizansc** です。 
 デジタル技術を活用し、学校をより良くすることを目標に取り組みをしています。
+
+This is the official GitHub organization of the student council at Gizan High School.  
+We develop web systems and digital tools to improve school events such as cultural festivals and sports festivals.
 
 ## 概要
 
